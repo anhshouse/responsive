@@ -915,6 +915,15 @@ body {
 }
 
 
+@media screen and (max-width: 576px) {
+	.slideshow li span { 
+		background-size: cover;}
+}
+
+
+
+
+
 
 
 
