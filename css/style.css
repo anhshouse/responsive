@@ -385,6 +385,7 @@ body {
 	left: 0px;
 	color: transparent;
 	background-size: cover;
+	-webkit-background-size:cover;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-attachment: fixed !important;
@@ -917,7 +918,7 @@ body {
 
 @media screen and (max-width: 576px) {
 	.slideshow li span { 
-		background-size: cover;}
+		-webkit-background-size:cover;}
 }
 
 
